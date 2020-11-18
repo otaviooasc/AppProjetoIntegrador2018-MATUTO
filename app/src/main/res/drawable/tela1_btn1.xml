@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- pressionado -->
+    <!-- com foco -->
+    <!-- normal-->
+    <item android:state_pressed="true" android:drawable="@drawable/tela1_btn01_2" />
+    <item android:state_focused="true" android:drawable="@drawable/tela1_btn01_2" />
+    <item android:drawable="@drawable/tela1_btn01_1" />
+</selector>

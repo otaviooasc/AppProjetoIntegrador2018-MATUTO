@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">MG</string>
+    <string name="entrar">Entrar</string>
+    <string name="logo">logo</string>
+    <string name="senha">Senha</string>
+    <string name="clique_aqui_para_se_cadastrar">Clique aqui para se cadastrar.</string>
+    <string name="cadastrar">cadastrar</string>
+    <string name="e_mail">E-mail</string>
+    <string name="mandacaru">Mandacaru</string>
+    <string name="cardeiro">Cardeiro</string>
+    <string name="palma">Palma</string>
+    <string name="clique_em_um_dos_3_bot_es_a_baixo_para_escolher_o_cl">Clique em um dos 3 botões a baixo para escolher o clã.</string>
+    <string name="for_a_m_gia_rapidez_vida">Força: Mágia: Rapidez: Vida:</string>
+    <string name="todoo">TODO</string>
+    <string name="confimar">Confimar</string>
+    <string name="nome">Nome</string>
+    <string name="confirmar_senha">Confirmar Senha</string>
+    <string name="novo_jogo">Novo jogo</string>
+    <string name="recordes">Recordes</string>
+    <string name="op_es">Opções</string>
+    <string name="sair">Sair</string>
+    <string name="todooo">todoo</string>
+    <string name="a3">a3</string>
+    <string name="a1">a1</string>
+    <string name="a4">a4</string>
+    <string name="a2">a2</string>
+    <string name="cadastro1">Cadastro</string>
+    <string name="registrar">Registrar</string>
+    <string name="nome2">Nome</string>
+    <string name="ainda_n_o_tem_uma_conta">Ainda não tem uma conta ?</string>
+    <string name="todo000">TODO</string>
+    <string name="salvar">SALVAR</string>
+</resources>
